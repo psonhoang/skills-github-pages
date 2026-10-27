@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog!
-
-Author: @hoangsp
+title: Welcome to my blog! Hello World from @hoangsp
 ---
